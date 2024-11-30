@@ -1,2 +1,3 @@
-This is basic learning of GitHub. /n
-I have added new line is this program 
+# Demo Reposistary
+This is basic learning of GitHub. 
+Auther: Moin Safdar 
