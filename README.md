@@ -1,1 +1,2 @@
-This is basic learning of GitHub.
+This is basic learning of GitHub. /n
+I have added new line is this program 
